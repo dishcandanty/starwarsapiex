@@ -1,17 +1,13 @@
 # starwarsapiex
 Example Usage for Star Wars API
-
-Swapi Ruby
-====
-
-A Ruby helper library for swapi.co - the Star Wars API
-
 ![Darth Vader](http://3.bp.blogspot.com/-RA6aaFC4fPY/T91VeiHEK8I/AAAAAAAAAWo/M6drwtR73es/s1600/vader.jpg)
 
 Description
 -----------
 Included Utility to Print flavor text, Starships, and pilot information.
+
 Readme Source Credit: https://github.com/emaraschio/swapi-ruby/blob/master/README.md
+
 API Documentation: http://swapi.co/documentation
 
 Installation
