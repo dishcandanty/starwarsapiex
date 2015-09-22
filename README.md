@@ -24,7 +24,7 @@ Basic Usage
 
 ``` console
 $ ./starships-pilots.rb
-$ # or
+# or
 $ ruby starships-pilots.rb
 ```
 
@@ -40,5 +40,5 @@ Example::
     Maximum Atmospheric Speed: 1100
     Cargo: 140
     Pilots:
-    Obi-Wan Kenobi
-    Grievous
+      Obi-Wan Kenobi
+      Grievous
